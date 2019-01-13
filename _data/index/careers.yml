@@ -1,13 +1,41 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: 커뮤니티 활동 S.U.A
+    i18n: company_a
+  desc:
+    detail: Securityplus Union Academy
+    i18n: company_a_desc
+  date:
+    detail: 2017.05
+    i18n: company_a_date
+  job:
+    detail: 5기 회원
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 동아리 활동 H.U.S.T
+    i18n: company_a
+  desc:
+    detail: Hongik Univ. Security Team
+    i18n: company_a_desc
+  date:
+    detail: 2012.03
+    i18n: company_a_date
+  job:
+    detail: 회원
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: 홍익대 컴퓨터정보통신공학과
     i18n: company_a
   desc:
     detail: 학사 졸업예정 (2019.02)
     i18n: company_a_desc
   date:
-    detail: Mar. 2012
+    detail: 2012.03
     i18n: company_a_date
   job:
     detail: Student
