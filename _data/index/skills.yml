@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C, Java, Github, IDA
-percentage: 100, 80, 80, 80, 80
+aspects: Python, C, Java, Github, IDA, Docker
+percentage: 100, 80, 80, 80, 80, 75
