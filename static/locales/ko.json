@@ -1,0 +1,54 @@
+{
+  "website":{
+    "title": "제리"
+  },
+  "nav":{
+    "home": "홈",
+    "about_me": "About",
+    "skills": "기술",
+    "projects": "프로젝트",
+    "career": "경력",
+    "blog": "블로그",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "자기소개",
+    "des": "악성코드 분석가를 꿈꾸는 취업 준비생입니다. 연락주세요"
+  },
+  "skills":{
+    "my_skills": "스킬"
+  },
+  "projects":{
+    "my_projects": "프로젝트",
+    "jalpc": ".",
+    "cpython": "..",
+    "familycode": "..."
+  },
+  "career":{
+    "my_career": "경력",
+    "nextcode": "Nextcode",
+    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
+    "nextcode_date": "Apr. 2016",
+    "nextcode_job": "Python Developer",
+    "netease": "Netease Game",
+    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
+    "netease_date": "Jun. 2015",
+    "netease_job": "Dev Ops",
+    "ucloud": "Ucloud",
+    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
+    "ucloud_date": "Sep. 2013",
+    "ucloud_job": "Dev Ops",
+    "college": "Graduation",
+    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
+    "college_date": "Jul. 2013",
+    "college_job": "Student"
+  },
+  "blog":{
+    "my_blog": "블로그로 가기"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
