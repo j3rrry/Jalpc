@@ -1,8 +1,11 @@
 ---
 layout: post
-categories: Blogging
-tags: blogging, disqus, github, blog, jekyll
-title: github blog에 댓글(disqus) 기능 세팅
+categories: [Blogging]
+keywords: blog, blogging, disqus, github, jekyll
+tags: [blogging, disqus, github, blog, jekyll]
+title: github blog에 댓글 기능 세팅 (disqus)
+desc: github blog에 댓글 기능 세팅 (disqus)
+date: 2019-01-17
 icon: fab fa-blogger-b
 ---
 
