@@ -12,7 +12,7 @@
   job:
     detail: 5기 회원
     i18n: company_a_job
-  icon: fas fa-plus-square
+  icon: fa-plus-square
 
 - name:
     detail: 동아리 활동 H.U.S.T
@@ -26,7 +26,7 @@
   job:
     detail: 회원
     i18n: company_a_job
-  icon: fas fa-plus-square
+  icon: fa-plus-square
 
 - name:
     detail: 홍익대 컴퓨터정보통신공학과
@@ -40,4 +40,4 @@
   job:
     detail: Student
     i18n: company_a_job
-  icon: fas fa-plus-square
+  icon: fa-plus-square
