@@ -24,12 +24,12 @@ author:  # change following line to your infomation.
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-python
-    - name: fab fa-ubuntu
+    - name: icon-python
+    - name: icon-ubuntu
   skill_icon2:
-    - name: fab fa-ubuntu
-    - name: fa-python
-  desc: looking for some job. # Describe yourself.
+    - name: icon-ubuntu
+    - name: icon-python
+  desc: CTF를 좋아합니다. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -45,7 +45,7 @@ go:
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
