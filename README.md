@@ -29,7 +29,6 @@
   - [Ensure there's an upstream remote](#ensure-theres-an-upstream-remote)
   - [Pull in the latest changes](#pull-in-the-latest-changes)
 - [Todo](#todo)
-- [Donate Jalpc](#donate-jalpc)
 - [Wiki](#wiki)
 - [Ad](#ad)
 
@@ -181,11 +180,6 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 - [ ] User can customise index page's section title.
 - [x] Non-github projects also have links.
 - [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
-
-# Donate Jalpc
-If this project let you enjoy your blog time, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
 
 # Wiki
 
