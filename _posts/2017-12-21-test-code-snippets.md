@@ -6,7 +6,7 @@ desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
-icon: fa-code
+icon: fa fa-code
 ---
 
 This is a raw snippet:

@@ -24,12 +24,12 @@ author:  # change following line to your infomation.
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-python
-    - name: fab fa-ubuntu
+    - name: icon-python
+    - name: icon-python
   skill_icon2:
-    - name: fab fa-ubuntu
-    - name: fa-python
-  desc: looking for some job. # Describe yourself.
+    - name: icon-python
+    - name: icon-python
+  desc: 깃헙 블로깅도 하고 악성코드 분석도 하자. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -71,3 +71,4 @@ kramdown:
 
 exclude:
   - README.md
+  - Gemfile

@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C,  Java, Github, IDA, Docker
-percentage: 100, 80, 70,   50,     80,  75
+aspects: Python, C,  Java, Github, IDA, Docker, Reversing, System Hacking, Malware Analysis
+percentage: 100, 80, 70,   50,     80,  75,     90,        80,             60
